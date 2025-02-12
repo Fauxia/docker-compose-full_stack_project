@@ -1,0 +1,1 @@
+# docker-compose-full_stack_project
